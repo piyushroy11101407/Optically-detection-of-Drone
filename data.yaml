@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+path: C:/Users/piyus/Desktop/Task drone/drone_dataset
+train: C:/Users/piyus/Desktop/Task drone/drone_dataset/train/images
+val: C:/Users/piyus/Desktop/Task drone/drone_dataset/valid/images
